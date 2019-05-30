@@ -1,4 +1,4 @@
-<div style="style="direction: rtl; text-align: right" dir="rtl" align="right">
+<div style="style="direction: rtl; text-align: right">
 
 # SEC Invoices Scrapper
 ## عن البرنامج
