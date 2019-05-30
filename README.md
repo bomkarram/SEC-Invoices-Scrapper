@@ -11,13 +11,19 @@ Python 3.6 <br>
 
 ## طريقة عمل البرنامج
  عن طريق سطر الاوامر <br>
+ 
+ <div dir="ltr" align="left">
 `git clone https://github.com/bomkarram/SEC-Invoices-Scrapper.git` <br>
 `cd SEC-Invoices-Scrapper` <br>
 `python -m venv py` <br>
 `source py/bin/activate` <br>
 `pip install -r requirements.txt ` <br>
+ </div>
+
 ضع ارقام الحسابات المراد تفحصها في ملف private_data.py <br>
+ <div dir="ltr" align="left">
 `python main.py` <br>
+ </div>
 ملاحظة: كل موقع في الملف سيتم وضعه في sheet مختلف في ملف الاكسل <br>
 
 ## صور البرنامج
